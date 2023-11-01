@@ -5,9 +5,9 @@ Extremely customizable with options for creating rooms both through serialized f
 
 Install Instructions
 
-1. Open the scenes folder in the unity editor 
+1.Open the scenes folder in the unity editor 
 
-2.right click and selct import new package 
+2.Right click and selct import new package 
 
 3.Import all from HPProceduralGenerator 
 
